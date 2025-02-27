@@ -1,0 +1,9 @@
+[general]
+name=Remove Temp Filter
+qgisMinimumVersion=3.0
+version=1.0
+description=Remove temporary filters from all vector layers in the current QGIS project.
+author=VishnuDurga
+email=post2vd@gmail.com
+category=Processing
+pluginType=python

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/RemoveTempFilterPlugin">
+        <file>icon.png</file>
+    </qresource>
+</RCC>
+
